@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758738949915",
+    "project_id": "lab1restapi-ec45f",
+    "storage_bucket": "lab1restapi-ec45f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758738949915:android:d9e3f7fffaa38135c8e5be",
+        "android_client_info": {
+          "package_name": "congntph34559.fpoly.lab1restapiapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzX1GaEE6Yh-OXBo8dGm8x45oVPsqeLxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
